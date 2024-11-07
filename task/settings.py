@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'nimap_db', 
         'USER': 'root',  
         'PASSWORD': 'cdac',  
-        'HOST': 'localhost',  
+        'HOST': 'Rushi',  
         'PORT': '3306',
     }
 }
