@@ -89,11 +89,11 @@ AUTH_USER_MODEL = 'nimap.User'  # Replace 'yourapp' with the name of the app whe
 DATABASES = {
     'default': {
          'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'amitkuwar', 
-        'USER': 'postgres',  
-        'PASSWORD': 'amitkuwar@101298',  
+        'NAME': 'nimap_db', 
+        'USER': 'root',  
+        'PASSWORD': 'cdac',  
         'HOST': 'localhost',  
-        'PORT': '5432',
+        'PORT': '3306',
     }
 }
 
